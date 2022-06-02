@@ -30,7 +30,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty | solution
 | ------ | ------ | ------ | ------ |
 | [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |[link](https://leetcode.com/problems/two-sum/discuss/2102793/C%2B%2B-code)
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |[link](https://leetcode.com/problems/set-matrix-zeroes/discuss/2102823/C%2B%2B-solution)
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
