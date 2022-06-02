@@ -27,9 +27,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 > **Problems for Week 1**
 
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
-| [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |
+| Problem Link | Status | Difficulty | solution
+| ------ | ------ | ------ | ------ |
+| [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |[link]([https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/discuss/2102793/C%2B%2B-code))
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
