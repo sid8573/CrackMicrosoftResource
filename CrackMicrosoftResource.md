@@ -31,14 +31,14 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ | ------ |
 | [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |[link](https://leetcode.com/problems/two-sum/discuss/2102793/C%2B%2B-code)
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |[link](https://leetcode.com/problems/set-matrix-zeroes/discuss/2102823/C%2B%2B-solution)
-| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
-| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
-| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
-| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |
-| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
-| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
-| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
+| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |[link](https://leetcode.com/problems/add-two-numbers/discuss/2104784/C%2B%2B-solution)
+| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |[link]
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |[link]
+| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |[link]
+| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |[link]
+| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |[link]
+| [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |[link]
+| [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |[link]
 
 
 ---
