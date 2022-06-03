@@ -32,7 +32,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [2 Sum](https://leetcode.com/problems/two-sum/)  |  |  |[link](https://leetcode.com/problems/two-sum/discuss/2102793/C%2B%2B-code)
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |[link](https://leetcode.com/problems/set-matrix-zeroes/discuss/2102823/C%2B%2B-solution)
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |[link](https://leetcode.com/problems/add-two-numbers/discuss/2104784/C%2B%2B-solution)
-| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |[link]
+| [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |[link](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/2104990/c%2B%2B-solution)
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |[link]
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |[link]
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  |  |[link]
